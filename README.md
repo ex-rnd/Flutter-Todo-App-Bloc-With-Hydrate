@@ -91,7 +91,7 @@ flutter format .
 - Submit PRs with clear descriptions and link related issues
 
 
-### 🎮 Thank you for exploring FastAPI-Flutter integration 🎉!
+### 🎮 Thank you for exploring Flutter Todo App with BLoC/Hydrate, an offline-first, BLoC-driven app! 🎉!
 
 
 
